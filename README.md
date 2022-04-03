@@ -7,7 +7,7 @@
 <h1 align="center"><span style="color: DarkViolet;">Github Finder</span> do Bootcamp Take Blip Web Developer</h1>
 <br>
 
-<p>App desenvolvida na mentoria 7 sobre JavaScript - Conceitos avançados do bootcamp da <a href="https://digitalinnovation.one/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO" tittle="Digital Innovation One" width="40"> Digital Innovation One, ministrada pela dev Diana Martine.</a>
+<p>App desenvolvida na mentoria 7 sobre JavaScript - Conceitos avançados do bootcamp da <a href="https://digitalinnovation.one/"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" alt="DIO" tittle="Digital Innovation One" width="40"> Digital Innovation One</a>, ministrada pela dev Diana Martine.
 <br><br>
 
 <!-- Languages icons -->
@@ -21,9 +21,9 @@
 
 <!-- Projects -->
 <h2> 🎯 Sobre a app: </h2>
-Foi utilizado Javascript para consumir a API do Github. Nela as informações (profile) do usuário do Github são recuperadas passando o nome do usuário como parâmetro. Retornando informações como: name, bio, foto, repositórios...
+Foi utilizado Javascript para consumir a API do Github. Nela as informações (profile) do usuário do Github são recuperadas passando o nome do usuário como parâmetro. Retornando informações como: name, bio, foto, repositórios...  <br> <br>
 <p>
-  <a href="https://MichelleCordeiro.github.io/github-finder/" target="_blank">Clique aqui para conhecer.</a>
+  <img src="https://i.postimg.cc/pL4yzbnq/github-finder.gif" alt="gif" width="350">
 </p>
 
 <!-- Dev Info -->
